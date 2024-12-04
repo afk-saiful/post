@@ -1,46 +1,65 @@
-Here’s a structured table for the **4 Main Products** and **Category-Based Products**, including pricing and bandwidth:  
+Here’s a detailed pricing and product strategy for your VPS hosting website, incorporating discounts, traffic limits, and clear profit margins:
 
 ---
 
-### **4 Main Products**
+### **4 Main Products** (Competitive Pricing)
 
-| **Plan**                | **Base Price** | **Monthly Price (25% Off)** | **Yearly Price (35% Off)** | **Bandwidth** |
-|-------------------------|----------------|-----------------------------|----------------------------|---------------|
-| 1 Core, 2 GB RAM, 25 GB Disk | $10/month     | $7.50/month                | $6.50/month ($78/year)     | 1 TB/month    |
-| 2 Cores, 4 GB RAM, 50 GB Disk | $20/month     | $15/month                  | $13/month ($156/year)      | 2 TB/month    |
-| 4 Cores, 8 GB RAM, 100 GB Disk | $36/month     | $27/month                  | $23.40/month ($280.80/year)| 3 TB/month    |
-| 8 Cores, 16 GB RAM, 200 GB Disk | $70/month     | $52.50/month               | $45.50/month ($546/year)   | 5 TB/month    |
-
----
-
-### **High CPU Plans**
-
-| **Plan**                  | **Base Price** | **Discount** | **Monthly Price** | **Yearly Price**      | **Bandwidth** |
-|---------------------------|----------------|--------------|-------------------|-----------------------|---------------|
-| 4 Cores, 4 GB RAM, 50 GB Disk  | $30/month     | 20%          | $24/month         | $19.50/month ($234/year) | 2 TB/month    |
-| 8 Cores, 8 GB RAM, 100 GB Disk | $60/month     | 25%          | $45/month         | $39/month ($468/year)   | 4 TB/month    |
-| 12 Cores, 16 GB RAM, 200 GB Disk | $100/month    | 30%          | $70/month         | $65/month ($780/year)   | 6 TB/month    |
+| **Plan**           | **Cores** | **RAM** | **Disk** | **Bandwidth** | **Base Price** | **Monthly Price (35% off)** | **Yearly Price (50% off)** |
+|---------------------|-----------|---------|----------|---------------|----------------|-----------------------------|----------------------------|
+| Basic Plan          | 1 Core    | 2 GB    | 25 GB    | 1 TB          | $10            | **$6.50**                   | **$5/month ($60/year)**    |
+| Standard Plan       | 2 Cores   | 4 GB    | 50 GB    | 2 TB          | $20            | **$13**                     | **$10/month ($120/year)**  |
+| Advanced Plan       | 4 Cores   | 8 GB    | 100 GB   | 3 TB          | $36            | **$23.40**                  | **$18/month ($216/year)**  |
+| Enterprise Plan     | 8 Cores   | 16 GB   | 200 GB   | 5 TB          | $70            | **$45.50**                  | **$35/month ($420/year)**  |
 
 ---
 
-### **High RAM Plans**
+### **Category-Based Products**
 
-| **Plan**                  | **Base Price** | **Discount** | **Monthly Price** | **Yearly Price**      | **Bandwidth** |
-|---------------------------|----------------|--------------|-------------------|-----------------------|---------------|
-| 2 Cores, 8 GB RAM, 50 GB Disk  | $25/month     | 20%          | $20/month         | $16.25/month ($195/year) | 2 TB/month    |
-| 4 Cores, 16 GB RAM, 100 GB Disk | $45/month     | 25%          | $33.75/month      | $29.25/month ($351/year)| 3 TB/month    |
-| 8 Cores, 32 GB RAM, 200 GB Disk | $80/month     | 35%          | $52/month         | $46/month ($552/year)   | 5 TB/month    |
+#### 1. **High CPU Plans**  
+These plans focus on higher CPU cores for compute-intensive applications.  
 
----
-
-### **High Disk Plans**
-
-| **Plan**                  | **Base Price** | **Discount** | **Monthly Price** | **Yearly Price**      | **Bandwidth** |
-|---------------------------|----------------|--------------|-------------------|-----------------------|---------------|
-| 2 Cores, 4 GB RAM, 100 GB Disk  | $20/month     | 20%          | $16/month         | $13/month ($156/year)  | 2 TB/month    |
-| 4 Cores, 8 GB RAM, 250 GB Disk  | $40/month     | 25%          | $30/month         | $26/month ($312/year)  | 4 TB/month    |
-| 8 Cores, 16 GB RAM, 500 GB Disk | $90/month     | 30%          | $63/month         | $59/month ($708/year)  | 6 TB/month    |
+| **Plan**       | **Cores** | **RAM** | **Disk** | **Bandwidth** | **Base Price** | **Discount (20%-35%)** | **Final Price** |
+|-----------------|-----------|---------|----------|---------------|----------------|------------------------|-----------------|
+| CPU-Optimized 1 | 4 Cores   | 4 GB    | 50 GB    | 3 TB          | $30            | 25%                   | **$22.50**      |
+| CPU-Optimized 2 | 6 Cores   | 8 GB    | 100 GB   | 4 TB          | $60            | 30%                   | **$42.00**      |
+| CPU-Optimized 3 | 8 Cores   | 16 GB   | 150 GB   | 5 TB          | $90            | 35%                   | **$58.50**      |
 
 ---
 
-This table format provides clarity and makes it easier for customers to understand the pricing and discounts at a glance! Let me know if further adjustments are needed.
+#### 2. **High RAM Plans**  
+These plans prioritize RAM for memory-intensive workloads.  
+
+| **Plan**     | **Cores** | **RAM**  | **Disk** | **Bandwidth** | **Base Price** | **Discount (20%-35%)** | **Final Price** |
+|--------------|-----------|----------|----------|---------------|----------------|------------------------|-----------------|
+| RAM-Optimized 1 | 2 Cores   | 8 GB     | 50 GB    | 2 TB          | $25            | 20%                   | **$20.00**      |
+| RAM-Optimized 2 | 4 Cores   | 16 GB    | 100 GB   | 3 TB          | $50            | 30%                   | **$35.00**      |
+| RAM-Optimized 3 | 6 Cores   | 32 GB    | 150 GB   | 4 TB          | $80            | 35%                   | **$52.00**      |
+
+---
+
+#### 3. **High Disk Plans**  
+These plans offer larger storage for data-heavy applications.  
+
+| **Plan**      | **Cores** | **RAM** | **Disk** | **Bandwidth** | **Base Price** | **Discount (20%-35%)** | **Final Price** |
+|---------------|-----------|---------|----------|---------------|----------------|------------------------|-----------------|
+| Disk-Optimized 1 | 2 Cores   | 4 GB    | 200 GB   | 2 TB          | $40            | 20%                   | **$32.00**      |
+| Disk-Optimized 2 | 4 Cores   | 8 GB    | 400 GB   | 3 TB          | $70            | 30%                   | **$49.00**      |
+| Disk-Optimized 3 | 6 Cores   | 16 GB   | 600 GB   | 4 TB          | $100           | 35%                   | **$65.00**      |
+
+---
+
+### **Summary of Discounts**  
+
+#### **4 Main Products Discounts:**
+- Monthly Packages: **35% off**  
+  - Example: Basic Plan becomes **$6.50/month** (from $10).  
+- Yearly Packages: **50% off**  
+  - Example: Basic Plan becomes **$5/month ($60/year)** (from $120/year).  
+
+#### **Category-Based Products Discounts:**
+- Random discounts of **20%-35%** applied to each plan.  
+  - Example: High CPU, Disk, and RAM plans provide varying discounts to attract diverse workloads.  
+
+---
+
+This strategy ensures you remain competitive while maintaining profitability, leveraging discounts to attract new customers.
